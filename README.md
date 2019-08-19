@@ -2,9 +2,15 @@
 
 Description:
 
-This is a simple chat application using socket prgramming in Python. Tkinter is used here to create the GUI. Here the sever can handle multiple client requests. This will allow file transfer.
+This is a simple chat application using socket prgramming in Python. Tkinter is used here to create the GUI. Here the sever
+can handle multiple client requests. This will allow file transfer.
 
-Steps: First run the Server.exe and click the button to activate. secondly run the client.exe then enter the IP Address of the target system and click the button. 
+Steps: 
+   
+   Extract both server.7z and client.7z files into the same directory.
+   
+   Run the server.exe and click the button to activate. Secondly run the client.exe then enter the IP Address of the target 
+   system and click the button. 
 
 Also user can use the H-Server.py and H-Client.py exe files
 
